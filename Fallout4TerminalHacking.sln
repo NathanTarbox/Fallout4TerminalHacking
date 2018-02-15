@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallout4TerminalHacking", "Fallout4TerminalHacking\Fallout4TerminalHacking.csproj", "{E60A75E2-8D33-412F-B3F7-646C1D34C393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallout4Helper", "Fallout4Helper\Fallout4Helper.csproj", "{7FFE5095-7B8E-4B16-A57F-2F8E07BD1EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60A75E2-8D33-412F-B3F7-646C1D34C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60A75E2-8D33-412F-B3F7-646C1D34C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60A75E2-8D33-412F-B3F7-646C1D34C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60A75E2-8D33-412F-B3F7-646C1D34C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFE5095-7B8E-4B16-A57F-2F8E07BD1EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFE5095-7B8E-4B16-A57F-2F8E07BD1EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFE5095-7B8E-4B16-A57F-2F8E07BD1EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFE5095-7B8E-4B16-A57F-2F8E07BD1EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
